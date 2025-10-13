@@ -1,10 +1,16 @@
-public class main
+public class main { }
 
-{
-    static void main() {
+public static <string> void main (string{}args) {
 
-    }
-        System.out.println("ejemplo de repositorio online") +
+        }
 
-    }
-}
+
+
+    public void nombremetodo;
+
+
+
+
+
+
+
